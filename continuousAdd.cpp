@@ -15,7 +15,7 @@ auto continuousAdd_v2 = [](int initial, int addBy)
 	};
 };
 
-
+/*
 int main()
 {
 	int init = 0;
@@ -26,3 +26,4 @@ int main()
 
 	return 0;
 }
+*/
